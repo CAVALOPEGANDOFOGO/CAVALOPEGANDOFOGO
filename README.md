@@ -1,3 +1,1 @@
 python 
-gdscript
-futuramente rust
